@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>at.refugeescode</groupId>
-	<artifactId>helloworldapplication</artifactId>
+	<artifactId>amazingHelloWorld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>helloworldapplication</name>
+	<name>amazingHelloWorld</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
